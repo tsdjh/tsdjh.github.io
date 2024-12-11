@@ -11,9 +11,10 @@
 
 * <p><a href="https://doi.org/10.4230/LIPIcs.ICALP.2023.97">Decidability of fully quantum nonlocal games with noisy maximally entangled states</a>  <span class="alignright"><a href="https://arxiv.org/abs/2211.10613">[arxiv]</a>  </span><br /> Minglong Qin, Penghui Yao  <br /> <strong>ICALP 2023</strong>: 97:1--97:20<br /> <strong>QIP 2023</strong></p>
 
-* <p>Quantum Pseudorandom Scramblers <span class="alignright"><a href="https://arxiv.org/abs/2309.08941">[arxiv]</a>  </span><br /> Chuhan Lu, Minglong Qin, Fang Song, Penghui Yao, Mingnan Zhao<br /> <strong>QIP 2024</strong></p>
+* <p>Quantum Pseudorandom Scramblers <span class="alignright"><a href="https://arxiv.org/abs/2309.08941">[arxiv]</a>  </span><br /> Chuhan Lu, Minglong Qin, Fang Song, Penghui Yao, Mingnan Zhao <br /> <strong>TCC 2024</strong>, Part II, 15365 <br /> <strong>QIP 2024</strong></p>
 
-* <p>The Computational Advantage of MIP* Vanishes in the Presence of Noise <span class="alignright"><a href="https://arxiv.org/abs/2312.04360">[arxiv]</a>  </span><br /> Yangjing Dong, Honghao Fu, Anand Natarajan, Minglong Qin, Haochen Xu, Penghui Yao</p>
+* <p>The Computational Advantage of MIP* Vanishes in the Presence of Noise <span class="alignright"><a href="https://arxiv.org/abs/2312.04360">[arxiv]</a>  </span><br /> Yangjing Dong, Honghao Fu, Anand Natarajan, Minglong Qin, Haochen Xu, Penghui Yao <br /> <strong>CCC 2024</strong>, Vol.300 <br /> <strong>QIP 2025</strong></p>
+
 ## Research Interests
 * Boolean function analysis in quantum computation
 * Quantum computational complexity
