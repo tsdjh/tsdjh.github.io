@@ -1,10 +1,10 @@
 # Minglong Qin
-* Email: mlqin@smail.nju.edu.cn
-* Office: Room 410, Department of Computer Science and Technology, Nanjing University Xianlin Campus
+* Email: mlqin6@gmail.com
 
 ## Biography
-* In 2018, I was enrolled in a master program in Department of Computer Science and Technology, Nanjing University.
-* In 2019, I joined Theory Group, mentored by Associate Professor Penghui Yao.
+* In 2018, I graduated with a bachelor's degree from Xiamen University, majoring in Information and Computational Science.
+* In 2024, I graduated with a Ph.D. in Quantum Computing from Nanjing University, under the supervision of Professor Penghui Yao.
+* I am now a postdoctoral researcher at the Centre for Quantum Technologies, National University of Singapore, under the supervision of Marco Tomamichel and Rahul Jain.
 
 ## Publications and preprints
 * <p><a href="https://epubs.siam.org/doi/abs/10.1137/20M134592X">Nonlocal games with noisy maximally entangled states are decidable</a>   <span class="alignright"><a href="https://arxiv.org/abs/2108.09140">[arxiv]</a>, supercedes  <a href="https://arxiv.org/abs/1904.08832">[arxiv]</a> </span><br />  Minglong Qin, Penghui Yao <br /> <strong>SIAM Journal of Computing 2021</strong>, Vol.50, Iss.6 (2021)</p>
@@ -17,4 +17,4 @@
 ## Research Interests
 * Boolean function analysis in quantum computation
 * Quantum computational complexity
-* Pseudo-randomness
+* Quantum cryptography
