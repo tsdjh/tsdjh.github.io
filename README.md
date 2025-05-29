@@ -1,4 +1,3 @@
-# Minglong Qin
 * Email: mlqin6@gmail.com
 
 ## Biography
