@@ -15,7 +15,11 @@
 
 * <p>The Computational Advantage of MIP* Vanishes in the Presence of Noise <span class="alignright"><a href="https://arxiv.org/abs/2312.04360">[arxiv]</a>  </span><br /> Yangjing Dong, Honghao Fu, Anand Natarajan, Minglong Qin, Haochen Xu, Penghui Yao <br /> <strong>CCC 2024</strong>, Vol.300 <br /> <strong>QIP 2025</strong></p>
 
+* <p>Parallel Kac’s Walk Generates PRU <span class="alignright"><a href="https://arxiv.org/pdf/2504.14957">[arxiv]</a>  </span><br /> Chuhan Lu, Minglong Qin, Fang Song, Penghui Yao, Mingnan Zhao </p>
+
+* <p>A tight consecutive measurement theorem and its applications <span class="alignright"><a href="https://arxiv.org/pdf/2504.12754">[arxiv]</a>  </span><br /> Chen-Xun Weng, Minglong Qin, Yanglin Hu, Marco Tomamichel </p>
 ## Research Interests
 * Boolean function analysis in quantum computation
+* Quantum nonlocal games
 * Quantum computational complexity
 * Quantum cryptography
